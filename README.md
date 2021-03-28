@@ -13,8 +13,7 @@ A contest for mango sorting
   (iiii) 最後拿訓練過的模型對test data進行測試
   
   ii.   Example：
-  * 第一張圖片處理前後結果
-  
+  * 第一張圖片處理前後結果  
   處理前![image](https://user-images.githubusercontent.com/58549322/112744660-a80a0600-8fd4-11eb-8ea2-161e01954fcf.png)
 
   * 第二張圖片處理前後結果
