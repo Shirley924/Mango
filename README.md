@@ -21,3 +21,13 @@ A contest for mango sorting
   
    處理前  <img src="https://user-images.githubusercontent.com/58549322/112744793-aab92b00-8fd5-11eb-9b23-e47c322a0720.png" width="300"/>  處理後![image](https://user-images.githubusercontent.com/58549322/112744841-113e4900-8fd6-11eb-8166-d43535b5cfa1.png)
 
+3.	Result：
+  i.	Evaluation with training dataset：
+  ![image](https://user-images.githubusercontent.com/58549322/112744874-64b09700-8fd6-11eb-9cac-b1a94bfd3fcf.png)
+  Train Loss: 0.3455,  Train Accuracy: 0.8641
+  
+  ii.	Evaluation with testing dataset：
+  Test Loss: 0.7377,  Test Accuracy: 0.6662
+
+  iii.	Confusion matrix：
+  ![image](https://user-images.githubusercontent.com/58549322/112744912-a7726f00-8fd6-11eb-8d00-3e8263dab0a1.png)
