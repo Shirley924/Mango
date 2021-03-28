@@ -23,6 +23,7 @@ A contest for mango sorting
 
 3.	Result：
   i.	Evaluation with training dataset：
+  
   ![image](https://user-images.githubusercontent.com/58549322/112744874-64b09700-8fd6-11eb-9cac-b1a94bfd3fcf.png)
   
   Train Loss: 0.3455,  Train Accuracy: 0.8641
