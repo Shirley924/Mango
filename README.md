@@ -25,10 +25,10 @@ A contest for mango sorting
   i.	Evaluation with training dataset：
   
   ![image](https://user-images.githubusercontent.com/58549322/112744874-64b09700-8fd6-11eb-9cac-b1a94bfd3fcf.png)
-  
   Train Loss: 0.3455,  Train Accuracy: 0.8641
   
   ii.	Evaluation with testing dataset：
+  
   Test Loss: 0.7377,  Test Accuracy: 0.6662
 
   iii.	Confusion matrix：
