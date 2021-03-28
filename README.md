@@ -14,6 +14,8 @@ A contest for mango sorting
   
   ii.   Example：
   * 第一張圖片處理前後結果  
-  處理前![image](https://user-images.githubusercontent.com/58549322/112744660-a80a0600-8fd4-11eb-8ea2-161e01954fcf.png)
+  處理前                                                                處理後
+  <img src="https://user-images.githubusercontent.com/58549322/112744660-a80a0600-8fd4-11eb-8ea2-161e01954fcf.png" width="300"/> <img src="https://user-images.githubusercontent.com/58549322/112744660-a80a0600-8fd4-11eb-8ea2-161e01954fcf.png" width="300"/>
+  ![image](https://user-images.githubusercontent.com/58549322/112744660-a80a0600-8fd4-11eb-8ea2-161e01954fcf.png)
 
   * 第二張圖片處理前後結果
