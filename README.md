@@ -18,5 +18,6 @@ A contest for mango sorting
 
 
   * 第二張圖片處理前後結果
+  
    處理前  <img src="https://user-images.githubusercontent.com/58549322/112744793-aab92b00-8fd5-11eb-9b23-e47c322a0720.png" width="300"/>  處理後![image](https://user-images.githubusercontent.com/58549322/112744841-113e4900-8fd6-11eb-8166-d43535b5cfa1.png)
 
